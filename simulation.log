@@ -1,0 +1,10 @@
+2024-10-30 15:25:18,349 - utils.logger - INFO - Schedule optimization completed successfully
+2024-10-30 15:25:18,349 - utils.logger - INFO - Break assignment completed successfully
+2024-10-30 15:25:18,349 - utils.logger - INFO - Generating visualizations and reports...
+2024-10-30 15:25:18,984 - utils.logger - INFO - Output files have been saved to: schedule_output/
+2024-10-30 15:25:18,985 - utils.logger - INFO - Schedule generation and visualization complete!
+2024-10-30 15:25:18,985 - utils.logger - INFO - The following files have been generated in the schedule_output directory:
+2024-10-30 15:25:18,985 - utils.logger - INFO - 1. schedule_gantt.html - Interactive Gantt chart of the schedule
+2024-10-30 15:25:18,985 - utils.logger - INFO - 2. coverage_heatmap.png - Heatmap showing staff coverage
+2024-10-30 15:25:18,985 - utils.logger - INFO - 3. skill_coverage.png - Line chart showing skill coverage by hour
+2024-10-30 15:25:18,985 - utils.logger - INFO - 4. schedule_report.xlsx - Detailed Excel report of the schedule
